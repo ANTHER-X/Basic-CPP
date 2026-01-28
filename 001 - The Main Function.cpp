@@ -1,3 +1,11 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
+
 //Basic main on C++
 
 /*al agregar "#include" le decimos al programa que nos incluya alguna libreria (.h, .hpp o Librerias del path)

@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 //Strings
 
 /*las variables de tipo (string/cadena de texto), son eso, una cadena de caracterez que me representan datos

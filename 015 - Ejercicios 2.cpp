@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 /*Ejercicios:
 
 PUEDES USAR CUALQUIER DE LAS 2 FORMAS DE ARRAYS

@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 /*Arrays (Areglos)*/
 
 /*Los arrays o arreglos son contenedores de variables los cuales se almacenan en forma de fila,

@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 //Operadores logicos, Comparadores y condicional if-else if-else
 
 /*Los condicionales se usan para poder validar datos, y ejecutar una u otra cosa

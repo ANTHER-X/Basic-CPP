@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 /*swtch-case con break y default*/
 
 #include <iostream>

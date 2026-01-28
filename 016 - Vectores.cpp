@@ -1,4 +1,11 @@
 /*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
+/*
 Vectores.
 Los vectores son arrays, pero no cualquier array, si no arrays dinamicos, es decir, ahora puedes tener cuantos
 elementos quieras o de forma que no se sepa, basicamente ahora puedes eliminar y crear elementos de forma dinamica en

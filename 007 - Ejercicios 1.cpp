@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 //Ejercicios usando lo aprendido
 
 /*Ahora vamos hace unos pequnios ejercicios usando lo aprendido

@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 /*Funciones 2*/
 
 /*ahora vamos a hace una funcion que nos sume 2 numeros y nos de el valor*/

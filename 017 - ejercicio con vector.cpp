@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 /*Ejercicio basico con los vectores*/
 
 //Solo pide al User una cantidad de numeros a insertar, busca el numero mayor, el menor y ordena de menor a mayor el array

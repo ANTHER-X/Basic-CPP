@@ -1,3 +1,10 @@
+/*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
 /*Funciones 3*/
 
 /*ahora vamos a ver como compactar funciones y codigo y haremos un par de ejemplos.
@@ -13,6 +20,7 @@ podras usarla donde quieras, a eso se le llaman datos o variables globales*/
 
 #define _USE_MATH_DEFINES
 #include <cmath>
+#include <corecrt_math_defines.h>
 
 //Funcion que saca el area de un cuadrado
 int AreaCuadrado(int Num, int Denom){

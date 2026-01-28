@@ -1,4 +1,11 @@
 /*
+ * Proyecto: Basic C++
+ * Autor: ANTHER-X
+ * GitHub: https://github.com/ANTHER-X
+ * Licencia: MIT
+ */
+
+/*
 Vamos a crear un sistema de Calificaciones
 
 1; Ingresa usuario.
