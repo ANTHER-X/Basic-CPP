@@ -13,15 +13,15 @@ int main(int argc, char** argv){
 	int a = 1, b = 2;
 	
 	/*
-		Los if en C++ permiten tomar decisiones basadas en condiciones lógicas.
+		Los if en C++ permiten tomar decisiones basadas en condiciones lï¿½gicas.
 		
 		La forma general es:
-		if (condición) {
-		    // Código a ejecutar si la condición es verdadera (true)
+		if (condiciï¿½n) {
+		    // Cï¿½digo a ejecutar si la condiciï¿½n es verdadera (true)
 		}
 		
 		-------------------------
-		Operadores de comparación
+		Operadores de comparaciï¿½n
 		-------------------------
 		==   igual a            (ej: a == b -> true si a es igual a b)
 		!=   distinto de        (ej: a != b -> true si a no es igual a b)
@@ -31,10 +31,10 @@ int main(int argc, char** argv){
 		<=   menor o igual que  (ej: a <= b -> true si a es menor o igual a b)
 		
 		-------------------------
-		Operadores lógicos
+		Operadores lï¿½gicos
 		-------------------------
 		&&   (AND)   -> todas las condiciones deben ser verdaderas
-		||   (OR)    -> basta con que al menos una condición sea verdadera
+		||   (OR)    -> basta con que al menos una condiciï¿½n sea verdadera
 		
 		-------------------------
 		Ejemplos
@@ -84,15 +84,15 @@ int main(int argc, char** argv){
 	int c = 7, d = 4;
 	
 	if( a > b && d < c){//como ambas condiciones son true, se ejecutara el codigo
-		std::cout << "El numero: " << a << " es mayor que " << b << " y el numero: " << d << " es menor que " << c;
+		std::cout << "El numero: " << a << " es mayor que " << b << " y el numero: " << d << " es menor que " << c << std::endl;
 	}
 	
 	if( a > b && d == c){//aqui, la segunda condicion es false, por lo que no se ejecuta si usamos AND logico (&&)
-		std::cout << "El numero: " << a << " es mayor que " << b << " y el numero: " << d << " es igual que " << c;
+		std::cout << "El numero: " << a << " es mayor que " << b << " y el numero: " << d << " es igual que " << c << std::endl;
 	}
 	
 	if( a == b || c > d){// en este caso, si se ejecurta aunque (a == b) sea false ya que usamos el OR logico (||)
-		std::cout << "El numero: " << a << " es igual que " << b << " O el numero: " << c << " es Mayor que " << d;
+		std::cout << "El numero: " << a << " es igual que " << b << " O el numero: " << c << " es Mayor que " << d << std::endl;
 	}
 	
 	return 0;

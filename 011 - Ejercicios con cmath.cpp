@@ -5,6 +5,8 @@
 
 #define _USE_MATH_DEFINES
 #include <cmath>
+//Por lo general esto funciona, pero por alguna razon a veces VSCode se pone raro y te pide la libreria de:
+#include <corecrt_math_defines.h>
 
 int main(int argc, char** argv){
 	
@@ -53,7 +55,7 @@ int main(int argc, char** argv){
     
     std::cout << "La altura aproximada del edificio es: " << altura << " metros" << std::endl;
 
-    //Mostrar también seno y coseno para reforzar y ver si quedo bien
+    //Mostrar tambiï¿½n seno y coseno para reforzar y ver si quedo bien
     std::cout << "Componente horizontal (coseno): " << cos(anguloRadianes) << std::endl;
 	std:: cout << "Componente vertical (seno): " << sin(anguloRadianes) << std::endl << std::endl;
 	

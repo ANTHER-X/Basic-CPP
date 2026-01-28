@@ -43,7 +43,7 @@ int EligeDepartamento(){
 	//mostramos una lista con las opciones
 	std::cout << "Lista de Departamentos" << std::endl;
 	
-	for(int i=0; i<10; i++){
+	for(int i=1; i<=10; i++){
 		std::cout << "opc " << i << " " << departamentos[i].Nombre << std::endl;
 	}
 	
@@ -129,7 +129,5 @@ int main(){
 		
 	}while(opc != 3);
 	
-	
-	getch();
 	return 0;
 }

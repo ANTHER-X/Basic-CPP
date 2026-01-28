@@ -25,10 +25,10 @@ int main(int argc, char** argv){
 	
 	/*agrega texto al string (el primer valor es el idice donde se comenzara a agregar el contenido, en
 	nuestro caso en el indice 2*/
-	cadenaTexto.insert(3, "Texto intermedio ");
+	cadenaTexto.insert(3, " Texto intermedio ");
 	
 	/*Agregamos texto al final de la cadena*/
-	cadenaTexto.append("Mas texto agregado");
+	cadenaTexto.append(" Mas texto agregado ");
 	
 	//mostramos todo lo hecho
 	std::cout << cadenaTexto << std::endl;

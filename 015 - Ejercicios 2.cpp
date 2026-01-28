@@ -29,7 +29,7 @@ int main(int argc, char** argv){
 	int numerosSumar2[4];
 	int sumaNumeros2 = 0;
 	std::cout << "ingresa 4 numeros." << std::endl;
-	for(int i : numerosSumar2){
+	for(int i=0; i<4; i++){
 		std::cin >> numerosSumar2[i];
 		sumaNumeros2 += numerosSumar2[i];
 	}

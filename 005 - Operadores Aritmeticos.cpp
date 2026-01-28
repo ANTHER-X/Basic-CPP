@@ -42,7 +42,7 @@ int main(int argc, char** argv){
 	//y si queremos hacer otras operaciones donde tenemos que consrevar el resultado
 	a = 5;
 	b = 4;
-	int c = (a*b-a+2)//que es equivalente a (5*4-5+2 = 17)
+	int c = (a*b-a+2); //que es equivalente a (5*4-5+2 = 17)
 	std::cout << c << std::endl;
 	
 	//ahora un ejemplo con el modulo

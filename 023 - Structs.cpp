@@ -29,7 +29,7 @@ struct Persona{ //Tenemos un tipo de dato especial llamado persona
 
     //con sus datos de edad y nombre
     int Edad;
-    String Nombre;
+    std::string Nombre;
 
 };
 

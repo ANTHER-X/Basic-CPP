@@ -25,12 +25,12 @@ int main(int argc, char** argv){
 	arrayDinamico.push_back(525);
 
 	//para accedeer usamos lo mismo
-	std::cout << numeros[0];
-	std::cout << numeros.at(1);//esto es mas seguro ya que lanza excepcion si no existe.
+	std::cout << arrayDinamico[0] << std::endl;
+	std::cout << arrayDinamico.at(1) << std::endl;//esto es mas seguro ya que lanza excepcion si no existe.
 
 	std::cout << "Elementos: " << arrayDinamico.size() << std::endl;     // cantidad de elementos
 	std::cout << "Capacidad: " << arrayDinamico.capacity() << std::endl; // capacidad reservada en memoria
-	std::cout << "Vacio? " << arrayDinamico.empty() << std::endl;        // true si está vacío, false si no
+	std::cout << "Vacio? " << arrayDinamico.empty() << std::endl;        // true si estï¿½ vacï¿½o, false si no
 
 	//recorrer vector
 	
@@ -41,16 +41,16 @@ int main(int argc, char** argv){
 	
 	//foreach
 	for(int i: arrayDinamico){
-		std::cout << "Numero: " << i  << std::endl
+		std::cout << "Numero: " << i  << std::endl;
 	}
 	
-	// Insertar en posición específica
-	arrayDinamico.insert(numeros.begin() + 2, 25);  //inserta 25 en elemento 2, quedaria [1,2,25,5]
+	// Insertar en posiciï¿½n especï¿½fica
+	arrayDinamico.insert(arrayDinamico.begin() + 2, 25);  //inserta 25 en elemento 2, quedaria [1,2,25,5]
 	
-	// Eliminar en posición específica
-	arrayDinamico.erase(numeros.begin() + 1);       //elimina el segundo elemento, queda [1,25,5]
+	// Eliminar en posiciï¿½n especï¿½fica
+	arrayDinamico.erase(arrayDinamico.begin() + 1);       //elimina el segundo elemento, queda [1,25,5]
 	
-	// Eliminar el último
+	// Eliminar el ï¿½ltimo
 	arrayDinamico.pop_back();						//elimina 525, quedaria [....15,24]
 	
 	// Eliminar todo

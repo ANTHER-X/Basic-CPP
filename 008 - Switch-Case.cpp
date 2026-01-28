@@ -45,7 +45,7 @@ int main(int argc, char** argv){
 	
 	//EJEMPLO SIMPLE
 	int opc;
-	std::cout << "Ingresa un numero: ";
+	std::cout << "Ingresa un numero del 1-4: ";
 	std::cin >> opc;
 	
 	std::cout << "Eleguiste la opcion: " << opc << std::endl;
