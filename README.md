@@ -3,7 +3,8 @@ Esta libreria tiene algunas cosas de C++ para quien quiera ver o recordar, no en
 
 ## Autor
 ANTHER-X  
-GitHub: https://github.com/ANTHER-X
+GitHub: https://github.com/ANTHER-X  
+email: fernandocisneroslemus@gmail.com
 
 ## Licencia
 Este proyecto está bajo la licencia MIT. Ver el archivo LICENSE para más detalles.
